@@ -1,0 +1,34 @@
+Warning: Permanently added '2620:52:3:1:dead:beef:cafe:c10f' (ED25519) to the list of known hosts.
+receiving incremental file list
+./
+build.log.gz
+configs.tar.gz
+hw_info.log.gz
+knot-3.2.6-cznic.1.suse.lp154.src.rpm
+knot-3.2.6-cznic.1.suse.lp154.x86_64.rpm
+knot-devel-3.2.6-cznic.1.suse.lp154.x86_64.rpm
+knot-dnssecutils-3.2.6-cznic.1.suse.lp154.x86_64.rpm
+knot-doc-3.2.6-cznic.1.suse.lp154.noarch.rpm
+knot-libs-3.2.6-cznic.1.suse.lp154.x86_64.rpm
+knot-module-dnstap-3.2.6-cznic.1.suse.lp154.x86_64.rpm
+knot-module-geoip-3.2.6-cznic.1.suse.lp154.x86_64.rpm
+knot-utils-3.2.6-cznic.1.suse.lp154.x86_64.rpm
+knot.spec
+results.json
+root.log.gz
+state.log.gz
+success
+chroot_scan/
+chroot_scan/var/
+chroot_scan/var/lib/
+chroot_scan/var/lib/mock/
+chroot_scan/var/lib/mock/opensuse-leap-15.4-x86_64-1680589767.025300/
+chroot_scan/var/lib/mock/opensuse-leap-15.4-x86_64-1680589767.025300/root/
+chroot_scan/var/lib/mock/opensuse-leap-15.4-x86_64-1680589767.025300/root/var/
+chroot_scan/var/lib/mock/opensuse-leap-15.4-x86_64-1680589767.025300/root/var/log/
+chroot_scan/var/lib/mock/opensuse-leap-15.4-x86_64-1680589767.025300/root/var/log/dnf.librepo.log
+chroot_scan/var/lib/mock/opensuse-leap-15.4-x86_64-1680589767.025300/root/var/log/dnf.log
+chroot_scan/var/lib/mock/opensuse-leap-15.4-x86_64-1680589767.025300/root/var/log/dnf.rpm.log
+
+sent 447 bytes  received 8,542,835 bytes  5,695,521.33 bytes/sec
+total size is 8,538,773  speedup is 1.00

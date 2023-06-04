@@ -1,0 +1,43 @@
+Warning: Permanently added '38.145.48.107' (ECDSA) to the list of known hosts.
+receiving incremental file list
+build.log.gz
+hw_info.log.gz
+knot-2.8.4-1.fc29.aarch64.rpm
+knot-2.8.4-1.fc29.src.rpm
+knot-debuginfo-2.8.4-1.fc29.aarch64.rpm
+knot-debugsource-2.8.4-1.fc29.aarch64.rpm
+knot-devel-2.8.4-1.fc29.aarch64.rpm
+knot-doc-2.8.4-1.fc29.noarch.rpm
+knot-libs-2.8.4-1.fc29.aarch64.rpm
+knot-libs-debuginfo-2.8.4-1.fc29.aarch64.rpm
+knot-utils-2.8.4-1.fc29.aarch64.rpm
+knot-utils-debuginfo-2.8.4-1.fc29.aarch64.rpm
+knot.spec
+root.log.gz
+state.log.gz
+success
+chroot_scan/
+chroot_scan/var/
+chroot_scan/var/lib/
+chroot_scan/var/lib/mock/
+chroot_scan/var/lib/mock/1066326-fedora-29-aarch64-1571600005.746703/
+chroot_scan/var/lib/mock/1066326-fedora-29-aarch64-1571600005.746703/root/
+chroot_scan/var/lib/mock/1066326-fedora-29-aarch64-1571600005.746703/root/var/
+chroot_scan/var/lib/mock/1066326-fedora-29-aarch64-1571600005.746703/root/var/log/
+chroot_scan/var/lib/mock/1066326-fedora-29-aarch64-1571600005.746703/root/var/log/dnf.librepo.log
+chroot_scan/var/lib/mock/1066326-fedora-29-aarch64-1571600005.746703/root/var/log/dnf.log
+chroot_scan/var/lib/mock/1066326-fedora-29-aarch64-1571600005.746703/root/var/log/dnf.rpm.log
+chroot_scan/var/lib/mock/1066326-fedora-29-aarch64-1571600318.448240/
+chroot_scan/var/lib/mock/1066326-fedora-29-aarch64-1571600318.448240/root/
+chroot_scan/var/lib/mock/1066326-fedora-29-aarch64-1571600318.448240/root/var/
+chroot_scan/var/lib/mock/1066326-fedora-29-aarch64-1571600318.448240/root/var/log/
+chroot_scan/var/lib/mock/1066326-fedora-29-aarch64-1571600318.448240/root/var/log/dnf.librepo.log
+chroot_scan/var/lib/mock/1066326-fedora-29-aarch64-1571600318.448240/root/var/log/dnf.log
+chroot_scan/var/lib/mock/1066326-fedora-29-aarch64-1571600318.448240/root/var/log/dnf.rpm.log
+configs/
+configs/child.cfg
+configs/fedora-29-aarch64.cfg
+configs/site-defaults.cfg
+
+sent 563 bytes  received 7,560,013 bytes  5,040,384.00 bytes/sec
+total size is 7,555,851  speedup is 1.00

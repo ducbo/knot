@@ -1,0 +1,43 @@
+Warning: Permanently added '172.25.87.41' (ECDSA) to the list of known hosts.
+receiving incremental file list
+build.log.gz
+hw_info.log.gz
+knot-2.8.5-1.fc32.ppc64le.rpm
+knot-2.8.5-1.fc32.src.rpm
+knot-debuginfo-2.8.5-1.fc32.ppc64le.rpm
+knot-debugsource-2.8.5-1.fc32.ppc64le.rpm
+knot-devel-2.8.5-1.fc32.ppc64le.rpm
+knot-doc-2.8.5-1.fc32.noarch.rpm
+knot-libs-2.8.5-1.fc32.ppc64le.rpm
+knot-libs-debuginfo-2.8.5-1.fc32.ppc64le.rpm
+knot-utils-2.8.5-1.fc32.ppc64le.rpm
+knot-utils-debuginfo-2.8.5-1.fc32.ppc64le.rpm
+knot.spec
+root.log.gz
+state.log.gz
+success
+chroot_scan/
+chroot_scan/var/
+chroot_scan/var/lib/
+chroot_scan/var/lib/mock/
+chroot_scan/var/lib/mock/1136923-fedora-rawhide-ppc64le-1577871938.353669/
+chroot_scan/var/lib/mock/1136923-fedora-rawhide-ppc64le-1577871938.353669/root/
+chroot_scan/var/lib/mock/1136923-fedora-rawhide-ppc64le-1577871938.353669/root/var/
+chroot_scan/var/lib/mock/1136923-fedora-rawhide-ppc64le-1577871938.353669/root/var/log/
+chroot_scan/var/lib/mock/1136923-fedora-rawhide-ppc64le-1577871938.353669/root/var/log/dnf.librepo.log
+chroot_scan/var/lib/mock/1136923-fedora-rawhide-ppc64le-1577871938.353669/root/var/log/dnf.log
+chroot_scan/var/lib/mock/1136923-fedora-rawhide-ppc64le-1577871938.353669/root/var/log/dnf.rpm.log
+chroot_scan/var/lib/mock/1136923-fedora-rawhide-ppc64le-1577871996.099503/
+chroot_scan/var/lib/mock/1136923-fedora-rawhide-ppc64le-1577871996.099503/root/
+chroot_scan/var/lib/mock/1136923-fedora-rawhide-ppc64le-1577871996.099503/root/var/
+chroot_scan/var/lib/mock/1136923-fedora-rawhide-ppc64le-1577871996.099503/root/var/log/
+chroot_scan/var/lib/mock/1136923-fedora-rawhide-ppc64le-1577871996.099503/root/var/log/dnf.librepo.log
+chroot_scan/var/lib/mock/1136923-fedora-rawhide-ppc64le-1577871996.099503/root/var/log/dnf.log
+chroot_scan/var/lib/mock/1136923-fedora-rawhide-ppc64le-1577871996.099503/root/var/log/dnf.rpm.log
+configs/
+configs/child.cfg
+configs/fedora-rawhide-ppc64le.cfg
+configs/site-defaults.cfg
+
+sent 563 bytes  received 6,113,183 bytes  4,075,830.67 bytes/sec
+total size is 6,109,354  speedup is 1.00

@@ -1,0 +1,116 @@
+{
+    "packages": [
+        {
+            "name": "knot-debuginfo",
+            "epoch": 0,
+            "version": "3.2.6",
+            "release": "cznic.1.fc37",
+            "arch": "aarch64"
+        },
+        {
+            "name": "knot-devel",
+            "epoch": 0,
+            "version": "3.2.6",
+            "release": "cznic.1.fc37",
+            "arch": "aarch64"
+        },
+        {
+            "name": "knot-doc",
+            "epoch": 0,
+            "version": "3.2.6",
+            "release": "cznic.1.fc37",
+            "arch": "noarch"
+        },
+        {
+            "name": "knot-utils-debuginfo",
+            "epoch": 0,
+            "version": "3.2.6",
+            "release": "cznic.1.fc37",
+            "arch": "aarch64"
+        },
+        {
+            "name": "knot-utils",
+            "epoch": 0,
+            "version": "3.2.6",
+            "release": "cznic.1.fc37",
+            "arch": "aarch64"
+        },
+        {
+            "name": "knot-libs",
+            "epoch": 0,
+            "version": "3.2.6",
+            "release": "cznic.1.fc37",
+            "arch": "aarch64"
+        },
+        {
+            "name": "knot-module-geoip",
+            "epoch": 0,
+            "version": "3.2.6",
+            "release": "cznic.1.fc37",
+            "arch": "aarch64"
+        },
+        {
+            "name": "knot-dnssecutils",
+            "epoch": 0,
+            "version": "3.2.6",
+            "release": "cznic.1.fc37",
+            "arch": "aarch64"
+        },
+        {
+            "name": "knot-module-geoip-debuginfo",
+            "epoch": 0,
+            "version": "3.2.6",
+            "release": "cznic.1.fc37",
+            "arch": "aarch64"
+        },
+        {
+            "name": "knot-module-dnstap-debuginfo",
+            "epoch": 0,
+            "version": "3.2.6",
+            "release": "cznic.1.fc37",
+            "arch": "aarch64"
+        },
+        {
+            "name": "knot",
+            "epoch": 0,
+            "version": "3.2.6",
+            "release": "cznic.1.fc37",
+            "arch": "aarch64"
+        },
+        {
+            "name": "knot-libs-debuginfo",
+            "epoch": 0,
+            "version": "3.2.6",
+            "release": "cznic.1.fc37",
+            "arch": "aarch64"
+        },
+        {
+            "name": "knot-debugsource",
+            "epoch": 0,
+            "version": "3.2.6",
+            "release": "cznic.1.fc37",
+            "arch": "aarch64"
+        },
+        {
+            "name": "knot",
+            "epoch": 0,
+            "version": "3.2.6",
+            "release": "cznic.1.fc37",
+            "arch": "src"
+        },
+        {
+            "name": "knot-module-dnstap",
+            "epoch": 0,
+            "version": "3.2.6",
+            "release": "cznic.1.fc37",
+            "arch": "aarch64"
+        },
+        {
+            "name": "knot-dnssecutils-debuginfo",
+            "epoch": 0,
+            "version": "3.2.6",
+            "release": "cznic.1.fc37",
+            "arch": "aarch64"
+        }
+    ]
+}

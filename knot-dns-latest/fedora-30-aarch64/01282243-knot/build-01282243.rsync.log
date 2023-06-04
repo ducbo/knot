@@ -1,0 +1,40 @@
+Warning: Permanently added '54.224.179.213' (ECDSA) to the list of known hosts.
+receiving incremental file list
+build.log.gz
+configs.tar.gz
+hw_info.log.gz
+knot-2.9.3-1.fc30.aarch64.rpm
+knot-2.9.3-1.fc30.src.rpm
+knot-debuginfo-2.9.3-1.fc30.aarch64.rpm
+knot-debugsource-2.9.3-1.fc30.aarch64.rpm
+knot-devel-2.9.3-1.fc30.aarch64.rpm
+knot-doc-2.9.3-1.fc30.noarch.rpm
+knot-libs-2.9.3-1.fc30.aarch64.rpm
+knot-libs-debuginfo-2.9.3-1.fc30.aarch64.rpm
+knot-utils-2.9.3-1.fc30.aarch64.rpm
+knot-utils-debuginfo-2.9.3-1.fc30.aarch64.rpm
+knot.spec
+root.log.gz
+state.log.gz
+success
+chroot_scan/
+chroot_scan/var/
+chroot_scan/var/lib/
+chroot_scan/var/lib/mock/
+chroot_scan/var/lib/mock/1282243-fedora-30-aarch64-1583225615.826737/
+chroot_scan/var/lib/mock/1282243-fedora-30-aarch64-1583225615.826737/root/
+chroot_scan/var/lib/mock/1282243-fedora-30-aarch64-1583225615.826737/root/var/
+chroot_scan/var/lib/mock/1282243-fedora-30-aarch64-1583225615.826737/root/var/log/
+chroot_scan/var/lib/mock/1282243-fedora-30-aarch64-1583225615.826737/root/var/log/dnf.librepo.log
+chroot_scan/var/lib/mock/1282243-fedora-30-aarch64-1583225615.826737/root/var/log/dnf.log
+chroot_scan/var/lib/mock/1282243-fedora-30-aarch64-1583225615.826737/root/var/log/dnf.rpm.log
+chroot_scan/var/lib/mock/1282243-fedora-30-aarch64-1583225720.472330/
+chroot_scan/var/lib/mock/1282243-fedora-30-aarch64-1583225720.472330/root/
+chroot_scan/var/lib/mock/1282243-fedora-30-aarch64-1583225720.472330/root/var/
+chroot_scan/var/lib/mock/1282243-fedora-30-aarch64-1583225720.472330/root/var/log/
+chroot_scan/var/lib/mock/1282243-fedora-30-aarch64-1583225720.472330/root/var/log/dnf.librepo.log
+chroot_scan/var/lib/mock/1282243-fedora-30-aarch64-1583225720.472330/root/var/log/dnf.log
+chroot_scan/var/lib/mock/1282243-fedora-30-aarch64-1583225720.472330/root/var/log/dnf.rpm.log
+
+sent 521 bytes  received 8,054,005 bytes  16,109,052.00 bytes/sec
+total size is 8,049,922  speedup is 1.00

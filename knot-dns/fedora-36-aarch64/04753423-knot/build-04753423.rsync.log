@@ -1,0 +1,39 @@
+Warning: Permanently added '34.229.246.103' (ED25519) to the list of known hosts.
+receiving incremental file list
+./
+build.log.gz
+configs.tar.gz
+hw_info.log.gz
+knot-3.1.9-cznic.1.fc36.aarch64.rpm
+knot-3.1.9-cznic.1.fc36.src.rpm
+knot-debuginfo-3.1.9-cznic.1.fc36.aarch64.rpm
+knot-debugsource-3.1.9-cznic.1.fc36.aarch64.rpm
+knot-devel-3.1.9-cznic.1.fc36.aarch64.rpm
+knot-doc-3.1.9-cznic.1.fc36.noarch.rpm
+knot-libs-3.1.9-cznic.1.fc36.aarch64.rpm
+knot-libs-debuginfo-3.1.9-cznic.1.fc36.aarch64.rpm
+knot-module-dnstap-3.1.9-cznic.1.fc36.aarch64.rpm
+knot-module-dnstap-debuginfo-3.1.9-cznic.1.fc36.aarch64.rpm
+knot-module-geoip-3.1.9-cznic.1.fc36.aarch64.rpm
+knot-module-geoip-debuginfo-3.1.9-cznic.1.fc36.aarch64.rpm
+knot-utils-3.1.9-cznic.1.fc36.aarch64.rpm
+knot-utils-debuginfo-3.1.9-cznic.1.fc36.aarch64.rpm
+knot.spec
+results.json
+root.log.gz
+state.log.gz
+success
+chroot_scan/
+chroot_scan/var/
+chroot_scan/var/lib/
+chroot_scan/var/lib/mock/
+chroot_scan/var/lib/mock/fedora-36-aarch64-1661152053.346763/
+chroot_scan/var/lib/mock/fedora-36-aarch64-1661152053.346763/root/
+chroot_scan/var/lib/mock/fedora-36-aarch64-1661152053.346763/root/var/
+chroot_scan/var/lib/mock/fedora-36-aarch64-1661152053.346763/root/var/log/
+chroot_scan/var/lib/mock/fedora-36-aarch64-1661152053.346763/root/var/log/dnf.librepo.log
+chroot_scan/var/lib/mock/fedora-36-aarch64-1661152053.346763/root/var/log/dnf.log
+chroot_scan/var/lib/mock/fedora-36-aarch64-1661152053.346763/root/var/log/dnf.rpm.log
+
+sent 542 bytes  received 8,185,777 bytes  16,372,638.00 bytes/sec
+total size is 8,181,364  speedup is 1.00

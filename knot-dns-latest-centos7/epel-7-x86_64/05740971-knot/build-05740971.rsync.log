@@ -1,0 +1,25 @@
+Warning: Permanently added '2620:52:3:1:dead:beef:cafe:c198' (ED25519) to the list of known hosts.
+receiving incremental file list
+./
+build.log.gz
+configs.tar.gz
+hw_info.log.gz
+knot-3.2.6-cznic.1.el7.src.rpm
+knot-3.2.6-cznic.1.el7.x86_64.rpm
+knot-debuginfo-3.2.6-cznic.1.el7.x86_64.rpm
+knot-devel-3.2.6-cznic.1.el7.x86_64.rpm
+knot-dnssecutils-3.2.6-cznic.1.el7.x86_64.rpm
+knot-doc-3.2.6-cznic.1.el7.noarch.rpm
+knot-libs-3.2.6-cznic.1.el7.x86_64.rpm
+knot-module-dnstap-3.2.6-cznic.1.el7.x86_64.rpm
+knot-module-geoip-3.2.6-cznic.1.el7.x86_64.rpm
+knot-utils-3.2.6-cznic.1.el7.x86_64.rpm
+knot.spec
+results.json
+root.log.gz
+state.log.gz
+success
+chroot_scan/
+
+sent 377 bytes  received 11,678,604 bytes  7,785,987.33 bytes/sec
+total size is 11,674,210  speedup is 1.00

@@ -1,0 +1,43 @@
+Warning: Permanently added '172.25.85.179' (ECDSA) to the list of known hosts.
+receiving incremental file list
+build.log.gz
+hw_info.log.gz
+knot-2.9.0-1.fc29.src.rpm
+knot-2.9.0-1.fc29.x86_64.rpm
+knot-debuginfo-2.9.0-1.fc29.x86_64.rpm
+knot-debugsource-2.9.0-1.fc29.x86_64.rpm
+knot-devel-2.9.0-1.fc29.x86_64.rpm
+knot-doc-2.9.0-1.fc29.noarch.rpm
+knot-libs-2.9.0-1.fc29.x86_64.rpm
+knot-libs-debuginfo-2.9.0-1.fc29.x86_64.rpm
+knot-utils-2.9.0-1.fc29.x86_64.rpm
+knot-utils-debuginfo-2.9.0-1.fc29.x86_64.rpm
+knot.spec
+root.log.gz
+state.log.gz
+success
+chroot_scan/
+chroot_scan/var/
+chroot_scan/var/lib/
+chroot_scan/var/lib/mock/
+chroot_scan/var/lib/mock/1066327-fedora-29-x86_64-1571599980.401321/
+chroot_scan/var/lib/mock/1066327-fedora-29-x86_64-1571599980.401321/root/
+chroot_scan/var/lib/mock/1066327-fedora-29-x86_64-1571599980.401321/root/var/
+chroot_scan/var/lib/mock/1066327-fedora-29-x86_64-1571599980.401321/root/var/log/
+chroot_scan/var/lib/mock/1066327-fedora-29-x86_64-1571599980.401321/root/var/log/dnf.librepo.log
+chroot_scan/var/lib/mock/1066327-fedora-29-x86_64-1571599980.401321/root/var/log/dnf.log
+chroot_scan/var/lib/mock/1066327-fedora-29-x86_64-1571599980.401321/root/var/log/dnf.rpm.log
+chroot_scan/var/lib/mock/1066327-fedora-29-x86_64-1571600094.295474/
+chroot_scan/var/lib/mock/1066327-fedora-29-x86_64-1571600094.295474/root/
+chroot_scan/var/lib/mock/1066327-fedora-29-x86_64-1571600094.295474/root/var/
+chroot_scan/var/lib/mock/1066327-fedora-29-x86_64-1571600094.295474/root/var/log/
+chroot_scan/var/lib/mock/1066327-fedora-29-x86_64-1571600094.295474/root/var/log/dnf.librepo.log
+chroot_scan/var/lib/mock/1066327-fedora-29-x86_64-1571600094.295474/root/var/log/dnf.log
+chroot_scan/var/lib/mock/1066327-fedora-29-x86_64-1571600094.295474/root/var/log/dnf.rpm.log
+configs/
+configs/child.cfg
+configs/fedora-29-x86_64.cfg
+configs/site-defaults.cfg
+
+sent 563 bytes  received 7,862,559 bytes  5,242,081.33 bytes/sec
+total size is 7,858,339  speedup is 1.00

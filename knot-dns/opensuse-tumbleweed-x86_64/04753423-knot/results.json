@@ -1,0 +1,60 @@
+{
+    "packages": [
+        {
+            "name": "knot-devel",
+            "epoch": 0,
+            "version": "3.1.9",
+            "release": "cznic.1.suse.tw",
+            "arch": "x86_64"
+        },
+        {
+            "name": "knot",
+            "epoch": 0,
+            "version": "3.1.9",
+            "release": "cznic.1.suse.tw",
+            "arch": "src"
+        },
+        {
+            "name": "knot-module-geoip",
+            "epoch": 0,
+            "version": "3.1.9",
+            "release": "cznic.1.suse.tw",
+            "arch": "x86_64"
+        },
+        {
+            "name": "knot-doc",
+            "epoch": 0,
+            "version": "3.1.9",
+            "release": "cznic.1.suse.tw",
+            "arch": "noarch"
+        },
+        {
+            "name": "knot-libs",
+            "epoch": 0,
+            "version": "3.1.9",
+            "release": "cznic.1.suse.tw",
+            "arch": "x86_64"
+        },
+        {
+            "name": "knot-utils",
+            "epoch": 0,
+            "version": "3.1.9",
+            "release": "cznic.1.suse.tw",
+            "arch": "x86_64"
+        },
+        {
+            "name": "knot",
+            "epoch": 0,
+            "version": "3.1.9",
+            "release": "cznic.1.suse.tw",
+            "arch": "x86_64"
+        },
+        {
+            "name": "knot-module-dnstap",
+            "epoch": 0,
+            "version": "3.1.9",
+            "release": "cznic.1.suse.tw",
+            "arch": "x86_64"
+        }
+    ]
+}

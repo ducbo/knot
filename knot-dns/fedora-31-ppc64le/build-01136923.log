@@ -1,0 +1,26 @@
+[2020-01-01 09:45:38,849][  INFO][PID:15910] Setting up builder: 172.25.87.254
+[2020-01-01 09:45:38,872][  INFO][PID:15910] BUILDER CMD: /bin/rpm -q copr-rpmbuild
+[2020-01-01 09:45:39,628][  INFO][PID:15910] BUILDER CMD: /usr/bin/test -f /etc/mock/fedora-31-ppc64le.cfg
+[2020-01-01 09:45:39,927][  INFO][PID:15910] Start build: BuildJob<id: 1136923, owner: @cznic, project: knot-dns, project_dir: knot-dnsgit branch: None, git hash: 8cce3c09dc398a02f235cd9a2132695427184c5d, status: 3 >
+[2020-01-01 09:45:39,929][  INFO][PID:15910] marking build dir with build_id, 
+[2020-01-01 09:45:39,930][  INFO][PID:15910] BUILDER CMD: copr-rpmbuild --verbose --drop-resultdir --build-id 1136923 --chroot fedora-31-ppc64le --detached
+[2020-01-01 09:45:40,706][  INFO][PID:15910] Attaching to live build log: /usr/bin/tail -F -n +0 --pid=10395 /var/lib/copr-rpmbuild/main.log
+[2020-01-01 09:50:39,777][  INFO][PID:15910] Compressing /var/lib/copr/public_html/results/@cznic/knot-dns/fedora-31-ppc64le/01136923-knot/builder-live.log by gzip
+[2020-01-01 09:50:40,108][  INFO][PID:15910] rsyncing of mockbuilder@172.25.87.254:/var/lib/copr-rpmbuild/results/* started for job: BuildJob<id: 1136923, owner: @cznic, project: knot-dns, project_dir: knot-dnsgit branch: None, git hash: 8cce3c09dc398a02f235cd9a2132695427184c5d, status: 3 >
+[2020-01-01 09:50:40,520][  INFO][PID:15910] rsyncing finished.
+[2020-01-01 09:50:40,522][  INFO][PID:15910] Success building knot
+[2020-01-01 09:50:40,523][  INFO][PID:15910] Going to sign pkgs from source: BuildJob<id: 1136923, owner: @cznic, project: knot-dns, project_dir: knot-dnsgit branch: None, git hash: 8cce3c09dc398a02f235cd9a2132695427184c5d, status: 3 > in chroot: /var/lib/copr/public_html/results/@cznic/knot-dns/fedora-31-ppc64le
+[2020-01-01 09:50:41,491][  INFO][PID:15910] signed rpm: /var/lib/copr/public_html/results/@cznic/knot-dns/fedora-31-ppc64le/01136923-knot/knot-libs-2.8.5-1.fc31.ppc64le.rpm
+[2020-01-01 09:50:42,471][  INFO][PID:15910] signed rpm: /var/lib/copr/public_html/results/@cznic/knot-dns/fedora-31-ppc64le/01136923-knot/knot-debuginfo-2.8.5-1.fc31.ppc64le.rpm
+[2020-01-01 09:50:43,606][  INFO][PID:15910] signed rpm: /var/lib/copr/public_html/results/@cznic/knot-dns/fedora-31-ppc64le/01136923-knot/knot-utils-2.8.5-1.fc31.ppc64le.rpm
+[2020-01-01 09:50:44,705][  INFO][PID:15910] signed rpm: /var/lib/copr/public_html/results/@cznic/knot-dns/fedora-31-ppc64le/01136923-knot/knot-2.8.5-1.fc31.ppc64le.rpm
+[2020-01-01 09:50:45,823][  INFO][PID:15910] signed rpm: /var/lib/copr/public_html/results/@cznic/knot-dns/fedora-31-ppc64le/01136923-knot/knot-doc-2.8.5-1.fc31.noarch.rpm
+[2020-01-01 09:50:47,016][  INFO][PID:15910] signed rpm: /var/lib/copr/public_html/results/@cznic/knot-dns/fedora-31-ppc64le/01136923-knot/knot-devel-2.8.5-1.fc31.ppc64le.rpm
+[2020-01-01 09:50:48,166][  INFO][PID:15910] signed rpm: /var/lib/copr/public_html/results/@cznic/knot-dns/fedora-31-ppc64le/01136923-knot/knot-utils-debuginfo-2.8.5-1.fc31.ppc64le.rpm
+[2020-01-01 09:50:49,790][  INFO][PID:15910] signed rpm: /var/lib/copr/public_html/results/@cznic/knot-dns/fedora-31-ppc64le/01136923-knot/knot-libs-debuginfo-2.8.5-1.fc31.ppc64le.rpm
+[2020-01-01 09:50:51,922][  INFO][PID:15910] signed rpm: /var/lib/copr/public_html/results/@cznic/knot-dns/fedora-31-ppc64le/01136923-knot/knot-2.8.5-1.fc31.src.rpm
+[2020-01-01 09:50:54,161][  INFO][PID:15910] signed rpm: /var/lib/copr/public_html/results/@cznic/knot-dns/fedora-31-ppc64le/01136923-knot/knot-debugsource-2.8.5-1.fc31.ppc64le.rpm
+[2020-01-01 09:50:54,162][  INFO][PID:15910] Sign done
+[2020-01-01 09:50:54,163][  INFO][PID:15910] Createrepo:: owner:  @cznic; project: knot-dns; front url: https://copr.fedorainfracloud.org; path: /var/lib/copr/public_html/results/@cznic/knot-dns/fedora-31-ppc64le; base_url: https://copr-be.cloud.fedoraproject.org/results/@cznic/knot-dns/fedora-31-ppc64le
+[2020-01-01 09:50:56,839][  INFO][PID:15910] Retrieving pubkey 
+[2020-01-01 09:50:57,502][  INFO][PID:15910] Added pubkey for user @cznic project knot-dns into: /var/lib/copr/public_html/results/@cznic/knot-dns/pubkey.gpg

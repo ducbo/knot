@@ -1,0 +1,41 @@
+Warning: Permanently added '2620:52:3:1:dead:beef:cafe:c189' (ED25519) to the list of known hosts.
+receiving incremental file list
+./
+build.log.gz
+configs.tar.gz
+hw_info.log.gz
+knot-3.2.6-cznic.1.el8.src.rpm
+knot-3.2.6-cznic.1.el8.x86_64.rpm
+knot-debuginfo-3.2.6-cznic.1.el8.x86_64.rpm
+knot-debugsource-3.2.6-cznic.1.el8.x86_64.rpm
+knot-devel-3.2.6-cznic.1.el8.x86_64.rpm
+knot-dnssecutils-3.2.6-cznic.1.el8.x86_64.rpm
+knot-dnssecutils-debuginfo-3.2.6-cznic.1.el8.x86_64.rpm
+knot-doc-3.2.6-cznic.1.el8.noarch.rpm
+knot-libs-3.2.6-cznic.1.el8.x86_64.rpm
+knot-libs-debuginfo-3.2.6-cznic.1.el8.x86_64.rpm
+knot-module-dnstap-3.2.6-cznic.1.el8.x86_64.rpm
+knot-module-dnstap-debuginfo-3.2.6-cznic.1.el8.x86_64.rpm
+knot-module-geoip-3.2.6-cznic.1.el8.x86_64.rpm
+knot-module-geoip-debuginfo-3.2.6-cznic.1.el8.x86_64.rpm
+knot-utils-3.2.6-cznic.1.el8.x86_64.rpm
+knot-utils-debuginfo-3.2.6-cznic.1.el8.x86_64.rpm
+knot.spec
+results.json
+root.log.gz
+state.log.gz
+success
+chroot_scan/
+chroot_scan/var/
+chroot_scan/var/lib/
+chroot_scan/var/lib/mock/
+chroot_scan/var/lib/mock/rhel-8-x86_64-1680589767.374291/
+chroot_scan/var/lib/mock/rhel-8-x86_64-1680589767.374291/root/
+chroot_scan/var/lib/mock/rhel-8-x86_64-1680589767.374291/root/var/
+chroot_scan/var/lib/mock/rhel-8-x86_64-1680589767.374291/root/var/log/
+chroot_scan/var/lib/mock/rhel-8-x86_64-1680589767.374291/root/var/log/dnf.librepo.log
+chroot_scan/var/lib/mock/rhel-8-x86_64-1680589767.374291/root/var/log/dnf.log
+chroot_scan/var/lib/mock/rhel-8-x86_64-1680589767.374291/root/var/log/dnf.rpm.log
+
+sent 580 bytes  received 12,157,819 bytes  8,105,599.33 bytes/sec
+total size is 12,152,301  speedup is 1.00

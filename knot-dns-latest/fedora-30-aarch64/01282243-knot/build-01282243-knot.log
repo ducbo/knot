@@ -1,0 +1,26 @@
+[2020-03-03 08:53:32,780][  INFO][PID:3994828] Setting up builder: 54.224.179.213
+[2020-03-03 08:53:32,781][  INFO][PID:3994828] BUILDER CMD: /bin/rpm -q copr-rpmbuild
+[2020-03-03 08:53:33,217][  INFO][PID:3994828] BUILDER CMD: /usr/bin/test -f /etc/mock/fedora-30-aarch64.cfg
+[2020-03-03 08:53:33,419][  INFO][PID:3994828] Start build: BuildJob<id: 1282243, owner: @cznic, project: knot-dns-latest, project_dir: knot-dns-latestgit branch: None, git hash: c0547c48e26ad9afa88b84f9f46471ed7e71016e, status: 3 >
+[2020-03-03 08:53:33,420][  INFO][PID:3994828] marking build dir with build_id, 
+[2020-03-03 08:53:33,420][  INFO][PID:3994828] BUILDER CMD: copr-rpmbuild --verbose --drop-resultdir --build-id 1282243 --chroot fedora-30-aarch64 --detached
+[2020-03-03 08:53:34,310][  INFO][PID:3994828] Attaching to live build log: /usr/bin/tail -F -n +0 --pid=36456 /var/lib/copr-rpmbuild/main.log
+[2020-03-03 09:01:50,127][  INFO][PID:3994828] Compressing /var/lib/copr/public_html/results/@cznic/knot-dns-latest/fedora-30-aarch64/01282243-knot/builder-live.log by gzip
+[2020-03-03 09:01:50,339][  INFO][PID:3994828] rsyncing of mockbuilder@54.224.179.213:/var/lib/copr-rpmbuild/results/* started for job: BuildJob<id: 1282243, owner: @cznic, project: knot-dns-latest, project_dir: knot-dns-latestgit branch: None, git hash: c0547c48e26ad9afa88b84f9f46471ed7e71016e, status: 3 >
+[2020-03-03 09:01:50,585][  INFO][PID:3994828] rsyncing finished.
+[2020-03-03 09:01:50,586][  INFO][PID:3994828] Success building knot
+[2020-03-03 09:01:50,586][  INFO][PID:3994828] Going to sign pkgs from source: BuildJob<id: 1282243, owner: @cznic, project: knot-dns-latest, project_dir: knot-dns-latestgit branch: None, git hash: c0547c48e26ad9afa88b84f9f46471ed7e71016e, status: 3 > in chroot: /var/lib/copr/public_html/results/@cznic/knot-dns-latest/fedora-30-aarch64
+[2020-03-03 09:01:51,349][  INFO][PID:3994828] signed rpm: /var/lib/copr/public_html/results/@cznic/knot-dns-latest/fedora-30-aarch64/01282243-knot/knot-doc-2.9.3-1.fc30.noarch.rpm
+[2020-03-03 09:01:51,861][  INFO][PID:3994828] signed rpm: /var/lib/copr/public_html/results/@cznic/knot-dns-latest/fedora-30-aarch64/01282243-knot/knot-debugsource-2.9.3-1.fc30.aarch64.rpm
+[2020-03-03 09:01:52,383][  INFO][PID:3994828] signed rpm: /var/lib/copr/public_html/results/@cznic/knot-dns-latest/fedora-30-aarch64/01282243-knot/knot-2.9.3-1.fc30.src.rpm
+[2020-03-03 09:01:52,891][  INFO][PID:3994828] signed rpm: /var/lib/copr/public_html/results/@cznic/knot-dns-latest/fedora-30-aarch64/01282243-knot/knot-utils-debuginfo-2.9.3-1.fc30.aarch64.rpm
+[2020-03-03 09:01:53,397][  INFO][PID:3994828] signed rpm: /var/lib/copr/public_html/results/@cznic/knot-dns-latest/fedora-30-aarch64/01282243-knot/knot-utils-2.9.3-1.fc30.aarch64.rpm
+[2020-03-03 09:01:53,910][  INFO][PID:3994828] signed rpm: /var/lib/copr/public_html/results/@cznic/knot-dns-latest/fedora-30-aarch64/01282243-knot/knot-libs-2.9.3-1.fc30.aarch64.rpm
+[2020-03-03 09:01:54,413][  INFO][PID:3994828] signed rpm: /var/lib/copr/public_html/results/@cznic/knot-dns-latest/fedora-30-aarch64/01282243-knot/knot-devel-2.9.3-1.fc30.aarch64.rpm
+[2020-03-03 09:01:54,883][  INFO][PID:3994828] signed rpm: /var/lib/copr/public_html/results/@cznic/knot-dns-latest/fedora-30-aarch64/01282243-knot/knot-2.9.3-1.fc30.aarch64.rpm
+[2020-03-03 09:01:55,521][  INFO][PID:3994828] signed rpm: /var/lib/copr/public_html/results/@cznic/knot-dns-latest/fedora-30-aarch64/01282243-knot/knot-debuginfo-2.9.3-1.fc30.aarch64.rpm
+[2020-03-03 09:01:56,026][  INFO][PID:3994828] signed rpm: /var/lib/copr/public_html/results/@cznic/knot-dns-latest/fedora-30-aarch64/01282243-knot/knot-libs-debuginfo-2.9.3-1.fc30.aarch64.rpm
+[2020-03-03 09:01:56,027][  INFO][PID:3994828] Sign done
+[2020-03-03 09:01:56,027][  INFO][PID:3994828] Createrepo:: owner:  @cznic; project: knot-dns-latest; front url: https://copr.fedorainfracloud.org; path: /var/lib/copr/public_html/results/@cznic/knot-dns-latest/fedora-30-aarch64; base_url: https://download.copr.fedorainfracloud.org/results/@cznic/knot-dns-latest/fedora-30-aarch64
+[2020-03-03 09:01:56,932][  INFO][PID:3994828] Retrieving pubkey 
+[2020-03-03 09:01:57,185][  INFO][PID:3994828] Added pubkey for user @cznic project knot-dns-latest into: /var/lib/copr/public_html/results/@cznic/knot-dns-latest/pubkey.gpg

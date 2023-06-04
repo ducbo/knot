@@ -1,0 +1,34 @@
+Warning: Permanently added '44.197.212.110' (ED25519) to the list of known hosts.
+receiving incremental file list
+./
+build.log.gz
+configs.tar.gz
+hw_info.log.gz
+knot-3.2.4-cznic.1.suse.tw.src.rpm
+knot-3.2.4-cznic.1.suse.tw.x86_64.rpm
+knot-devel-3.2.4-cznic.1.suse.tw.x86_64.rpm
+knot-dnssecutils-3.2.4-cznic.1.suse.tw.x86_64.rpm
+knot-doc-3.2.4-cznic.1.suse.tw.noarch.rpm
+knot-libs-3.2.4-cznic.1.suse.tw.x86_64.rpm
+knot-module-dnstap-3.2.4-cznic.1.suse.tw.x86_64.rpm
+knot-module-geoip-3.2.4-cznic.1.suse.tw.x86_64.rpm
+knot-utils-3.2.4-cznic.1.suse.tw.x86_64.rpm
+knot.spec
+results.json
+root.log.gz
+state.log.gz
+success
+chroot_scan/
+chroot_scan/var/
+chroot_scan/var/lib/
+chroot_scan/var/lib/mock/
+chroot_scan/var/lib/mock/opensuse-tumbleweed-x86_64-1670827018.451079/
+chroot_scan/var/lib/mock/opensuse-tumbleweed-x86_64-1670827018.451079/root/
+chroot_scan/var/lib/mock/opensuse-tumbleweed-x86_64-1670827018.451079/root/var/
+chroot_scan/var/lib/mock/opensuse-tumbleweed-x86_64-1670827018.451079/root/var/log/
+chroot_scan/var/lib/mock/opensuse-tumbleweed-x86_64-1670827018.451079/root/var/log/dnf.librepo.log
+chroot_scan/var/lib/mock/opensuse-tumbleweed-x86_64-1670827018.451079/root/var/log/dnf.log
+chroot_scan/var/lib/mock/opensuse-tumbleweed-x86_64-1670827018.451079/root/var/log/dnf.rpm.log
+
+sent 447 bytes  received 10,623,391 bytes  7,082,558.67 bytes/sec
+total size is 10,618,870  speedup is 1.00
